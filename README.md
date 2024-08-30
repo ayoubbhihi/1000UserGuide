@@ -608,12 +608,13 @@
  - [OECD.AI](https://oecd.ai/en/catalogue/tools/submit )：一个AI工具到可信AI工具和度量标准目录，旨在帮助AI从业者开发和使用尊重人权、公正、透明、可解释、稳健、安全的可信AI系统和应用的工具和度量标准。 提交的内容将由经合组织审查，然后才会在目录中发布。
 
  - [TopApps.Ai](https://topapps.ai/submit )：一个AI目录网站，允许提交AI应用程序，并进行审核后发布，同时提供了丰富的应用类别供选择。
-
+ - [ToolList.ai](https://toollist.ai/product/create)：一找到每个任务的最佳AI工具。
  - [ToolHunter.ai](https://www.toolhunter.ai/submit-a-tool )：旨在帮助用户发现和选择适合您需求的顶级人工智能工具。
 
  - [ToolPilot](https://www.toolpilot.ai/pages/submit-your-ai-tool )：一个全面的 AI 工具库，用户可以发现、比较和使用各种 AI 工具。
 
  - [ToolScout](https://toolscout.ai/submit )：一个帮助用户发现新的人工智能工具的网站。
+
 
  - [Toolbase AI](https://www.toolbase.ai/toolbase/submit-tool )：一个综合的工具平台，提供各种不同类别的工具，以帮助用户提高工作效率和解决问题。
 
